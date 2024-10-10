@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+<head>Lista de mejores amigos</head>
+<ul>
+  <li>Alvarez</li>
+  <li>Sierra</li>
+  <li>Cadro</li>
+  <li>Llorente</li>
+</ul>  
+</body>
+</html>
