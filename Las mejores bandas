@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 5px solid #dddddd;
+  text-align: center;
+  padding: 5px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>Las Mejores Bandas</h2>
+
+<table>
+  <tr>
+    <th>Nombre</th>
+    <th>Cantante</th>
+    <th>Género</th>
+  </tr>
+  <tr>
+    <td>Imagine Dragons</td>
+    <td>Dan Reynolds</td>
+    <td>Rock/Pop</td>
+  </tr>
+  <tr>
+    <td>Ratones Paranoicos</td>
+    <td>Juanse</td>
+    <td>Rock</td>
+  </tr>
+  <tr>
+    <td>Daft Punk</td>
+    <td>Thomas Bangalter</td>
+    <td>Pop</td>
+  </tr>
+  <tr>
+    <td>La vela Puerca</td>
+    <td>Sebastián Teysera</td>
+    <td>Rock</td>
+  </tr>
+  <tr>
+    <td>Soda Estereo</td>
+    <td>Gustavo Cerati</td>
+    <td>Rock</td>
+  </tr>
+  <tr>
+    <td>ACDC</td>
+    <td>Brian Johnson</td>
+    <td>Rock</td>
+  </tr>
+</table>
+
+</body>
+</html>
